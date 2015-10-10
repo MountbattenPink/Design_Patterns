@@ -1,0 +1,11 @@
+<Html>
+	<Head>
+		<Title>Composite Pattern</Title>
+	</Head>
+	<Body>
+		<P>Example of Composite Structural Pattern</P>
+		<H1>By OL SH</H1>
+	</Body>
+</Html>
+
+Process finished with exit code 0
