@@ -7,9 +7,8 @@ import visitor.visitable.Oxygen;
 /**
  * Created by pc on 15.01.2016.
  */
-public class FormulaReader implements Visitor{
+public class FormulaReader implements Visitor {
     public void visit(Alkane alkane){
-  //      for ()
     }
 
 
